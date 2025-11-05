@@ -18,7 +18,7 @@ A cross-disciplinary researcher bridging **Computer Science**, **Marine Science*
 | **Geophysical Monitoring** | Microseismic detection, bridge health monitoring, and vehicle tracking using DAS. |
 | **AI for Geoscience** | Applying deep learning (CNN, Transformer) and traditional ML to geophysical data. |
 | **Distributed Sensing Systems** | Optimizing DAS data acquisition and real-time processing pipelines. |
-
+<!-- 
 ## 📊 Featured Projects
 ### 1. AI-Powered DAS Data Analysis Pipeline
 [das-ai-pipeline](https://github.com/wuw584/das-ai-pipeline)  
@@ -36,7 +36,7 @@ A cross-disciplinary researcher bridging **Computer Science**, **Marine Science*
 ### 3. AGU 2025 Conference Presentation
 [agu-2025-das-presentation](https://github.com/wuw584/agu-2025-das-presentation)  
 - **Title**: "AI-Driven DAS Data Processing for Real-Time Microseismic Monitoring in Marine Environments".  
-- **Content**: Presentation slides, poster, and supplementary code for AGU Fall Meeting 2025.  
+- **Content**: Presentation slides, poster, and supplementary code for AGU Fall Meeting 2025.   -->
 
 ## 🛠️ Technical Stack
 ### AI & Machine Learning
