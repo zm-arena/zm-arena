@@ -2,8 +2,6 @@
 > PhD Applicant in Geophysics | AI + Distributed Acoustic Sensing (DAS) Researcher  
 > M.S. @ Southern University of Science and Technology (SUSTech) | B.S. in Computer Science
 
-![Banner](https://picsum.photos/id/1031/1200/300) <!-- 科技感背景图：地球/海洋/数据可视化风格 -->
-
 ## 🚀 About Me
 A cross-disciplinary researcher bridging **Computer Science**, **Marine Science**, and **Geophysics** — specializing in applying Artificial Intelligence (AI) to Distributed Acoustic Sensing (DAS) data analysis.  
 
@@ -23,20 +21,20 @@ A cross-disciplinary researcher bridging **Computer Science**, **Marine Science*
 
 ## 📊 Featured Projects
 ### 1. AI-Powered DAS Data Analysis Pipeline
-[![DAS-AI Pipeline](https://picsum.photos/id/180/400/200)](https://github.com/wuw584/das-ai-pipeline)  
+[das-ai-pipeline](https://github.com/wuw584/das-ai-pipeline)  
 - **Goal**: Automate DAS signal classification for microseismic events and structural anomalies.  
 - **Tech Stack**: Python, PyTorch, Scikit-learn, Obspy, NumPy/SciPy.  
 - **Key Results**: Achieved 95.2% accuracy in microseismic event detection; reduced processing time by 60%.  
 - **Applications**: Oil/gas reservoir monitoring, seismic hazard assessment.
 
 ### 2. Bridge Health Monitoring with DAS
-[![Bridge Monitoring](https://picsum.photos/id/29/400/200)](https://github.com/wuw584/das-bridge-monitoring)  
+[das-bridge-monitoring](https://github.com/wuw584/das-bridge-monitoring)  
 - **Goal**: Detect structural defects (cracks, deformation) using DAS fiber optic sensors.  
 - **Tech Stack**: MATLAB, Python, Signal Processing, Time-Frequency Analysis.  
 - **Key Results**: Successfully identified 3mm cracks in a concrete bridge model; real-time alert system.  
 
 ### 3. AGU 2025 Conference Presentation
-[![AGU 2025](https://picsum.photos/id/175/400/200)](https://github.com/wuw584/agu-2025-das-presentation)  
+[agu-2025-das-presentation](https://github.com/wuw584/agu-2025-das-presentation)  
 - **Title**: "AI-Driven DAS Data Processing for Real-Time Microseismic Monitoring in Marine Environments".  
 - **Content**: Presentation slides, poster, and supplementary code for AGU Fall Meeting 2025.  
 
@@ -70,19 +68,9 @@ A cross-disciplinary researcher bridging **Computer Science**, **Marine Science*
 ## 🌐 Connect With Me
 - [GitHub](https://github.com/wuw584) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 - [Email](mailto:zeminwu@sustech.edu.cn) ![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)
-- [LinkedIn](https://linkedin.com/in/zemin-wu-xxxx) <!-- 替换为你的LinkedIn链接 -->
-- [ResearchGate](https://www.researchgate.net/profile/Zemin-Wu-xxxx) <!-- 建议注册并添加 -->
-- [AGU 2025 Presentation](https://github.com/wuw584/agu-2025-das-presentation)
-
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wuw584&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Zemin's GitHub Stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuw584&theme=dark&layout=compact&hide=html,css" alt="Top Languages" width="45%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wuw584&theme=dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%"/>
-</div>
+<!-- - [LinkedIn](https://linkedin.com/in/zemin-wu-xxxx) <!-- 替换为你的LinkedIn链接 -->
+<!-- - [ResearchGate](https://www.researchgate.net/profile/Zemin-Wu-xxxx) <!-- 可选：添加ResearchGate链接 -->
+<!-- - [AGU 2025 Presentation](https://github.com/wuw584/agu-2025-das-presentation)-->
 
 ---
 
